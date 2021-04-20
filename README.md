@@ -6,7 +6,7 @@ This is a front end app that uses Unsplash API to make a dynamic web page that p
 
 ## Website link
 
-This app is hosted with netlify :
+This app is hosted with netlify : https://freepicsunsplash.netlify.app/
 
 ## Screenshot
 
