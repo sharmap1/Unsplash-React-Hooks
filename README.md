@@ -2,11 +2,13 @@
 
 ## Overview
 
-This is a front end app that uses Unsplash API to make a dynamic web page that populates free images.This app has been made with Material UI framework.
+This is a front end app that uses Unsplash API to make a dynamic web page that populates free images. This app has been made with Material UI framework.
 
 ## Website link
 
 This app is hosted with netlify : https://freepicsunsplash.netlify.app/
+
+Also I have made a youtube video for this app, link: https://www.youtube.com/watch?v=nR8noi7NT-g&t=1326s
 
 ## Screenshot
 
