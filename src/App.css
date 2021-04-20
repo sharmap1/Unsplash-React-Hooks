@@ -1,4 +1,6 @@
 #root {
-  background-color: rgba(223, 235, 188, 0.973);
   text-align: center;
+}
+body {
+  background-color: rgba(223, 235, 188, 0.973);
 }

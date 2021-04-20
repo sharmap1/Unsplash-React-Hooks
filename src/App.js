@@ -37,13 +37,6 @@ function App() {
         loader={<Loader />}
       >
         <UnsplashImage images={images} />
-        {/* {images.map(image => {
-
-            return<div key={image.id}>
-              <img src={image.urls.full} alt="unsplashImg" style={{height:"200px", width: "200px"}}/>
-            </div>
-          }
-          )} */}
       </InfiniteScroll>
     </>
   );
